@@ -22,7 +22,7 @@ I WANT to be able to track my withdrawals and deposits with or without a data/in
 SO THAT my account balance is accurate when I am traveling
 ```
 ## Deployed App
-Heroku: [Mongo Workout Tracker](https://intense-sierra-40851.herokuapp.com/)
+Heroku: [Mongo Budget Tracker](https://intense-sierra-40851.herokuapp.com/)
 
 ## Installation
 ```
